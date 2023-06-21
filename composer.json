@@ -2,6 +2,7 @@
 	"name": "abdallahalyamni/mpdf-arabic",
 	"type": "library",
 	"description": "PHP library generating PDF files from UTF-8 encoded HTML",
+	"version": "1.0.0",
 	"keywords": ["php", "pdf", "utf-8"],
 	"homepage": "https://mpdf.github.io",
 	"license": ["GPL-2.0-only"],
