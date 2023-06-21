@@ -1,5 +1,5 @@
 {
-	"name": "mpdf/mpdf",
+	"name": "abdallahalyamni/mpdf-arabic",
 	"type": "library",
 	"description": "PHP library generating PDF files from UTF-8 encoded HTML",
 	"keywords": ["php", "pdf", "utf-8"],
@@ -13,11 +13,15 @@
 		{
 			"name": "Ian Back",
 			"role": "Developer (retired)"
+		},
+		{
+			"name": "Abdallah Alyamni",
+			"role": "Developer"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
+		"issues": "https://github.com/abdallahalyamni/mpdf-arabic/issues",
+		"source": "https://github.com/abdallahalyamni/mpdf-arabic",
 		"docs": "http://mpdf.github.io"
 	},
 	"require": {
