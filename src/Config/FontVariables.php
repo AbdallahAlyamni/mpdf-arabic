@@ -101,6 +101,14 @@ class FontVariables
 					'useOTL' => 0xFF,
 					'useKashida' => 75,
 				],
+                "jannalt" => [
+					'R' => "JannaLTRegular.ttf",
+					'B' => "JannaLTBold.ttf",
+					'I' => "JannaLTRegular.ttf",
+					'BI' => "JannaLTRegular.ttf",
+					'useOTL' => 0xFF,
+					'useKashida' => 75,
+				],
 				"dejavusans" => [
 					'R' => "DejaVuSans.ttf",
 					'B' => "DejaVuSans-Bold.ttf",
